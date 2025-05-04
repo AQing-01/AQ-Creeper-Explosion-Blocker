@@ -1,4 +1,4 @@
-# Creeper-Explosion-Blocker
+# AQ-Creeper-Explosion-Blocker
 
 Creeper-Explosion-Blocker 是一个Minecraft插件，旨在防止苦力怕（Creeper）的爆炸对游戏环境造成破坏。这个插件提供了多种配置选项，允许服务器管理员根据需要调整插件的行为。
 
